@@ -6,3 +6,6 @@ Disallow:
 
 User-agent: Googlebot
 Disallow: /nogooglebot/
+
+User-agent: Bingbot
+Disallow: /nobingbot/
